@@ -63,7 +63,7 @@
     
 }
 .services{
-    margin-top: 700px;
+    margin-top: 900px;
 }
 .services-button{
     color: #ff8b07;
@@ -125,7 +125,6 @@
     text-align: right;
     font-family: 'Noto Sans Telugu', sans-serif;
     margin: 10px;
-    margin-bottom: 100px;
  }
 
 
@@ -321,7 +320,7 @@
         align-items: center;
         justify-content: space-between;
         flex-direction: column;
-        padding: 30px;
+        padding: 0px;
     }
     .custom-buttonn{
         margin-left: 50px;
